@@ -1,0 +1,199 @@
+
+.a1{
+
+    
+    margin-left: 1130px;
+    font-family: 'Roboto', sans-serif;
+    
+    
+    text-decoration: none;
+    color:black;
+}
+
+
+
+
+.a2 {
+              
+    font-family: 'Roboto', sans-serif;
+    margin-left: 10px;
+    
+    text-decoration: none;
+    color:black;
+    
+}
+
+img{
+        position: relative;
+        top: 7px;
+        margin-left: 10px;
+        
+
+}
+
+a:hover{
+
+    color:grey;
+    text-decoration: underline;
+}
+
+body{
+    margin-top:15px;
+    
+}
+
+
+
+p{
+
+    text-align:center;
+    
+
+    margin-top:160px;
+    
+}   
+
+input{
+
+    width:40%;
+    padding:15px;   
+    margin-top:20px;
+    margin-left: 400px;
+
+}
+
+.b1{
+
+margin-top:30px;
+margin-left:550px;
+padding: 10px;
+font-family:'Roboto', sans-serif;
+
+}
+
+.b2{
+    margin-left: 20px;
+    padding: 10px;
+    font-family:'Roboto', sans-serif;
+}
+
+#ab{
+    margin-top:30px;
+    margin-left:350px;
+}
+
+.c{
+margin-left:5px;
+text-decoration: none;
+}
+
+.c1{
+margin-left:5px;
+text-decoration: none;
+}
+
+
+.c2{
+    margin-left:5px;
+    text-decoration: none;
+    }
+
+    
+.c3{
+    margin-left:5px;
+    text-decoration: none;
+    }
+
+    
+.c4{
+    margin-left:5px;
+    text-decoration: none;
+    }
+
+    
+.c5{
+    margin-left:5px;
+    text-decoration: none;
+    }
+
+
+.c6{
+       margin-left:5px;
+       text-decoration: none;
+        }
+
+        
+.c7{
+    margin-left:5px;
+    text-decoration: none;
+    }
+
+    
+.c8{
+    margin-left:5px;
+    text-decoration: none;
+    }
+
+#cc{
+    margin-top:15px;
+    background-color: #f1f1f1;
+    border-top-style: ridge;
+    border-bottom-style: ridge;
+    border-top-color: honeydew;
+    padding:10px;
+    margin-left:-7px;
+    margin-right:-5px;
+   
+    
+}
+   
+#cb{
+    background-color: #f1f1f1;
+    border-color:#f1f1f1;
+    padding:10px;
+    margin-left:-10px;
+    margin-right:-5px;
+   
+}
+
+.d{
+    margin-left: 0px;
+    text-decoration: none;
+    color: black;
+}
+
+.e{
+    margin-left: 15px;
+    text-decoration: none;
+    color: black;
+}
+
+.f{
+    margin-left: 15px;
+    text-decoration: none;
+    color: black;
+}
+
+.g{
+    margin-left: 15px;
+    text-decoration: none;
+    color: black;
+}
+
+.h{
+    margin-left: 760px;
+    text-decoration: none;
+    color: black;
+}
+
+.i{
+    margin-left: 15px;
+    text-decoration: none;
+    color: black;
+}
+
+.k{
+    margin-left: 15px;
+    text-decoration: none;
+    color: black;
+}
